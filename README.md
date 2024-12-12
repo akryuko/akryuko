@@ -12,8 +12,12 @@ Welcome to my GitHub profile! I’m a **Senior QA Engineer** with extensive expe
 - **Testing Tools**: Selenium WebDriver, Playwright, Tosca, TestComplete, Postman, Android Studio, SauceLabs, Chrome DevTools, Charles
 - **Platforms**: Windows, Mac OS, Android, iOS
 - **Browsers**: Google Chrome, Mozilla Firefox, Opera, Microsoft Edge, Safari
-- **Databases**: MySQL
-- **Project Management Tools**: Azure, Jira, Confluence
+- **Databases**: MySQL, PostgreSQL, MongoDB, SQL Server.
+- **Project Management Tools**: Azure, Jira, Confluence, TestRail, Zephyr.
+- **Programming & Scripting Languages**: Python (for automation scripting).
+- **CI/CD & DevOps Tools**:Jenkins, GitLab CI/CD, Docker, Kubernetes.
+- **Version Control**: Git, GitHub, Bitbucket.
+- **Cloud & Virtualization**: AWS, Azure DevOps, BrowserStack, LambdaTest (cross-browser testing in the cloud).
 - **Languages**: Russian (Native), Belarusian (Native), English (Professional Working)
 
 ## 🎓 Certifications
