@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hello, I'm Aliaksandr Kryuko 👋
 
-<!--
-**akryuko/akryuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a **Senior QA Engineer** with extensive experience in testing web and mobile applications, specializing in **functional, regression, API, cross-browser/platform, and non-functional testing**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 📍 **Location**: Poznań, Wielkopolskie, Poland
+- 🎯 **Current Role**: Senior QA Engineer at Exadel, with hands-on experience in testing mobile (iOS, Android) and web applications.
+- 🧩 **Skills**: Expertise in Agile methodologies (Scrum, Kanban), software quality assurance (SQA), and SDLC processes.
+- 💡 Passionate about delivering high-quality software, I am committed to continuous learning and improving testing processes to ensure product excellence.
+  
+## 🛠️ Technical Skills
+- **Testing Tools**: Selenium WebDriver, Playwright, Tosca, TestComplete, Postman, Android Studio, SauceLabs, Chrome DevTools, Charles
+- **Platforms**: Windows, Mac OS, Android, iOS
+- **Browsers**: Google Chrome, Mozilla Firefox, Opera, Microsoft Edge, Safari
+- **Databases**: MySQL
+- **Project Management Tools**: Azure, Jira, Confluence
+- **Languages**: Russian (Native), Belarusian (Native), English (Professional Working)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Certifications
+- **ISTQB Certified Tester Foundation Level (CTFL)**
+- **ISTQB Certified Tester Advanced Level Test Manager (CTAL-TM)**
+
+## 💼 Experience
+### **Senior QA Engineer at Exadel** (August 2022 – Present)
+- Planned and executed functional, non-functional, regression, smoke, usability, and GUI testing.
+- Led test reporting, bug reporting, and test process planning.
+- Collaborated with cross-functional teams to ensure timely and quality deliveries.
+
+### **Resource Manager at Exadel** (July 2022 – Present)
+- Managed resource qualification, performance, and professional development plans.
+- Balanced resource workloads and monitored project demands to optimize team performance.
+
+### **QA Engineer at EPAM Systems** (September 2020 – October 2021)
+- Conducted functional and regression testing, developed test cases, and ensured cross-platform compatibility.
+- Collaborated with teams to resolve defects and enhance QA processes.
+
+### **QA Engineer (Self-employed)** (March 2015 – November 2020)
+- Conducted various types of testing and quality assurance for multiple clients.
+
+
+## 📬 Get in Touch
+- Email: [aliaksandrkryuko@gmail.com](mailto:aliaksandrkryuko@gmail.com)
+- LinkedIn: [Aliaksandr Kryuko](https://www.linkedin.com/in/akryuko)
