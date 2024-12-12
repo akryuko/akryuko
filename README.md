@@ -21,14 +21,12 @@ Welcome to my GitHub profile! I’m a **Senior QA Engineer** with extensive expe
 - **ISTQB Certified Tester Advanced Level Test Manager (CTAL-TM)**
 
 ## 💼 Experience
+
 ### **Senior QA Engineer at Exadel** (August 2022 – Present)
 - Planned and executed functional, non-functional, regression, smoke, usability, and GUI testing.
 - Led test reporting, bug reporting, and test process planning.
 - Collaborated with cross-functional teams to ensure timely and quality deliveries.
-
-### **Resource Manager at Exadel** (July 2022 – Present)
-- Managed resource qualification, performance, and professional development plans.
-- Balanced resource workloads and monitored project demands to optimize team performance.
+- Mentored junior QA specialists, helping them improve their technical skills, testing strategies, and understanding of Agile methodologies.
 
 ### **QA Engineer at EPAM Systems** (September 2020 – October 2021)
 - Conducted functional and regression testing, developed test cases, and ensured cross-platform compatibility.
