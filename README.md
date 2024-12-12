@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a **Senior QA Engineer** with extensive expe
 ## 🚀 About Me
 - 📍 **Location**: Poznań, Wielkopolskie, Poland
 - 🎯 **Current Role**: Senior QA Engineer at Exadel, with hands-on experience in testing mobile (iOS, Android) and web applications.
-- 🧩 **Skills**: Expertise in Agile methodologies (Scrum, Kanban), software quality assurance (SQA), and SDLC processes.
+- 🧩 **Skills**:  Proficient in test strategy development, test planning, and execution across complex systems. Experienced in Agile methodologies (Scrum, Kanban), SQA practices, defect management, and SDLC processes. Skilled in mentoring junior team members and fostering a quality-first culture.
 - 💡 Passionate about delivering high-quality software, I am committed to continuous learning and improving testing processes to ensure product excellence.
   
 ## 🛠️ Technical Skills
